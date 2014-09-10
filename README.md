@@ -6,6 +6,6 @@ there are also certain terms of renewal; it might or might not lead to citizensh
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| blin da nafig | kill me | 200000000 |
+| fignya        | ofiget  |   100000  |
+| brain storm   | OMG     |    100000 |
